@@ -16,7 +16,15 @@ A high-performance, production-ready scheduling platform built with the latest w
 - **Timezone Aware**: Backend ensures all slots are calculated relative to the user's availability.
 - **Conflict Prevention**: Automatic filtering of booked slots to prevent double-bookings.
 
-### 🔗 **Public Booking Flow**
+---
+
+## 📖 Help & Documentation
+
+For a detailed guide on how to use the platform as a client or administrator, please refer to our **[Client User Guide](file:///Users/ayushsingh/Documents/calendly/CLIENT_GUIDE.md)**.
+
+---
+
+## 🔗 Public Booking Flow
 - **Interactive Calendar**: Clients can select a date and instantly see available time slots.
 - **Smart Slot Generation**: Real-time calculation of available time intervals based on:
     1.  User's weekly availability.
