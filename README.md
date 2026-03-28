@@ -69,7 +69,7 @@ The schema is normalized to handle multi-tenant scheduling:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AyushSingh0221/calendly_clone
    cd calendly-clone
    ```
 
