@@ -5,9 +5,8 @@ generator client {
   provider = "prisma-client-js"
 }
 
-// Defaulting to sqlite for out-of-the-box runnability as requested.
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
